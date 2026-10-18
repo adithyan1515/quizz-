@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple JSON Quiz</title>
+    <style>
+        body { font-family: sans-serif; max-width: 600px; margin: 40px auto; padding: 20px; }
+        .quiz-container { background: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        .option-btn { display: block; width: 100%; margin: 10px 0; padding: 10px; text-align: left; cursor: pointer; border: 1px solid #ccc; background: white; border-radius: 4px; }
+        .option-btn:hover { background: #f0f0f0; }
+        #feedback { font-weight: bold; margin-top: 15px; }
+    </style>
+</head>
+<body>
+    <div class="quiz-container">
+        <h2 id="question">Loading question...</h2>
+        <div id="options"></div>
+        <div id="feedback"></div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>

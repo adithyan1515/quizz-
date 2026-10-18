@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "question": "Which programming language is JSON derived from?",
+    "options": ["Python", "Java", "JavaScript", "C++"],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 2,
+    "question": "Which data type is NOT supported natively by JSON?",
+    "options": ["String", "Function", "Boolean", "Number"],
+    "answer": "Function"
+  },
+  {
+    "id": 3,
+    "question": "What must wrap keys in a valid JSON object?",
+    "options": ["Single quotes", "Double quotes", "Backticks", "No quotes"],
+    "answer": "Double quotes"
+  },
+  {
+    "id": 3,
+    "question": "What must wrap keys in a valid JSON object?",
+    "options": ["Single quotes", "Double quotes", "Backticks", "No quotes"],
+    "answer": "Double quotes"
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is 100 % Tharkuri?",
+    "options": ["TVK", "cero", "conjuring", "idiot"],
+    "answer": "TVK"
+  }
+]
